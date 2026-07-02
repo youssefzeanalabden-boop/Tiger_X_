@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tiger X | Official</title>
+
+<link rel="stylesheet" href="style.css">
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;700&display=swap" rel="stylesheet">
+
+</head>
+<body>
+
+<header>
+
+<div class="logo">
+<img src="logo.jpg">
+</div>
+
+<h1>Tiger X</h1>
+
+<p>Official Kick Streamer</p>
+
+<a href="https://kick.com/tiger-x-0" target="_blank" class="btn">
+Watch On Kick
+</a>
+
+</header>
+
+<section class="about">
+
+<h2>About Me</h2>
+
+<p>
+مرحباً بكم في الموقع الرسمي لـ Tiger X.
+استريمر على منصة Kick يقدم بثوث مباشرة وألعاب متنوعة.
+</p>
+
+</section>
+
+<section class="cards">
+
+<div class="card">
+<h3>🎮 Gaming</h3>
+<p>أفضل بثوث الألعاب.</p>
+</div>
+
+<div class="card">
+<h3>🔥 Live</h3>
+<p>بث مباشر باستمرار.</p>
+</div>
+
+<div class="card">
+<h3>💬 Community</h3>
+<p>تفاعل مع الجمهور.</p>
+</div>
+
+</section>
+
+<footer>
+
+<p>© 2025 Tiger X</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
